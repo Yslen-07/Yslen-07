@@ -2,7 +2,7 @@
 
 <p align="center">
 🎓 Estudante de Informática no IFCE <br>
-📍 Fortaleza - CE | ☕ Apaixonada por código, arte e chocolate
+📍 Fortaleza - CE | 
 </p>
 
 ---
