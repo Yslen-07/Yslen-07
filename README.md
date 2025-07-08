@@ -60,6 +60,4 @@
 
 ### 💖 Obrigada por visitar!
 
-<p align="center">
-  Feito com ☕ e coragem por <strong>Lara Yslen</strong> 🌸
-</p>
+
