@@ -13,7 +13,7 @@
 - 🌱 Atualmente estudando **Swift**, **SwiftUI** e **bancos de dados com SQL**
 - ✨ Tenho interesse em **desenvolver sites e apps úteis**
 - 🎯 Sonho em trabalhar com **tecnologia e transformar ideias em soluções**
-- 🎵 Além de programação, amo **Studio Ghibli, natação, pintura, música e chocolate**
+
 
 ---
 
