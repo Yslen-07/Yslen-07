@@ -57,7 +57,7 @@
 </p>
 
 ---
-![Snake animation](https://github.com/seu-usuario-github/seu-usuario-github/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Yslen-07/Yslen-07/blob/output/github-contribution-grid-snake.svg)
 
 ### 💖 Obrigada por visitar!
 
